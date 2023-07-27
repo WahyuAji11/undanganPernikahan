@@ -49,7 +49,7 @@ body {
   font-size: 1.4rem;
 }
 
-.hero button {
+.hero a {
   color: var(--pink);
   background-color: white;
   text-decoration: none;
@@ -57,7 +57,7 @@ body {
   border-radius: 10%;
 }
 
-.hero button:hover {
+.hero a:hover {
   background-color: var(--pink);
   color: white;
 }
